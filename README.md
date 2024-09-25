@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivin Mathew</h1>
-<h3 align="center">A passionate fullstack developer from India, with interest in AR and CyberSecurity.</h3>
+<h3 align="center">A passionate fullstack developer from India, with an interest in Augmented Reality.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivin-mathew" alt="ivin-mathew" /></a> </p>
 
