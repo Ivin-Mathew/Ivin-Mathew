@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivin-mathew" alt="ivin-mathew" /></a> </p>
 
-- 🔭 I’m currently working on [visionARy Expos](https://github.com/Ivin-Mathew/visionARy-Expos)
 
-- 🌱 I’m currently learning **ViroReact and Flutter.**
+- 🌱 I’m currently learning **GSAP and ViroReact.**
 
-- 👨‍💻 All of my projects are available at [https://www.ivinmathew.xyz/](https://www.ivinmathew.xyz/)
+- 👨‍💻 Check out my portfolio at [https://ivin-mathew.is-a.dev/](https://ivin-mathew.is-a.dev/)
 
-- 📫 How to reach me **ivinmk2410@gmail.com**
+- 📫 Contact me at **ivinmk2410@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
